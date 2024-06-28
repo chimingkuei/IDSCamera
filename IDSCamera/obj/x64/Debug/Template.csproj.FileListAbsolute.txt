@@ -1,0 +1,52 @@
+C:\Data Disk\Chimingkuei\repos\Reference\C#\Template\Template\bin\x64\Debug\Template.exe.config
+C:\Data Disk\Chimingkuei\repos\Reference\C#\Template\Template\bin\x64\Debug\Template.exe
+C:\Data Disk\Chimingkuei\repos\Reference\C#\Template\Template\bin\x64\Debug\Template.pdb
+C:\Data Disk\Chimingkuei\repos\Reference\C#\Template\Template\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Data Disk\Chimingkuei\repos\Reference\C#\Template\Template\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Data Disk\Chimingkuei\repos\Reference\C#\Template\Template\obj\x64\Debug\Template.csproj.AssemblyReference.cache
+C:\Data Disk\Chimingkuei\repos\Reference\C#\Template\Template\obj\x64\Debug\MainWindow.g.cs
+C:\Data Disk\Chimingkuei\repos\Reference\C#\Template\Template\obj\x64\Debug\App.g.cs
+C:\Data Disk\Chimingkuei\repos\Reference\C#\Template\Template\obj\x64\Debug\Template_MarkupCompile.cache
+C:\Data Disk\Chimingkuei\repos\Reference\C#\Template\Template\obj\x64\Debug\Template_MarkupCompile.lref
+C:\Data Disk\Chimingkuei\repos\Reference\C#\Template\Template\obj\x64\Debug\MainWindow.baml
+C:\Data Disk\Chimingkuei\repos\Reference\C#\Template\Template\obj\x64\Debug\Template.g.resources
+C:\Data Disk\Chimingkuei\repos\Reference\C#\Template\Template\obj\x64\Debug\Template.Properties.Resources.resources
+C:\Data Disk\Chimingkuei\repos\Reference\C#\Template\Template\obj\x64\Debug\Template.csproj.GenerateResource.cache
+C:\Data Disk\Chimingkuei\repos\Reference\C#\Template\Template\obj\x64\Debug\Template.csproj.CoreCompileInputs.cache
+C:\Data Disk\Chimingkuei\repos\Reference\C#\Template\Template\obj\x64\Debug\Template.csproj.CopyComplete
+C:\Data Disk\Chimingkuei\repos\Reference\C#\Template\Template\obj\x64\Debug\Template.exe
+C:\Data Disk\Chimingkuei\repos\Reference\C#\Template\Template\obj\x64\Debug\Template.pdb
+C:\Data Disk\Chimingkuei\repos\Reference\C#\Template\Template\obj\x64\Debug\Language\en-US.baml
+C:\Data Disk\Chimingkuei\repos\Reference\C#\Template\Template\obj\x64\Debug\Language\zh-TW.baml
+C:\Data Disk\Chimingkuei\repos\Reference\C#\Template\Template\obj\x64\Debug\App.baml
+C:\Data Disk\Chimingkuei\repos\Reference\C#\Template\Template\bin\x64\Debug\HandyControl.dll
+C:\Data Disk\Chimingkuei\repos\Reference\C#\Template\Template\bin\x64\Debug\HandyControl.xml
+C:\Data Disk\Chimingkuei\repos\Reference\C#\Template\Template\obj\x64\Debug\UI\CheckBoxStyles.baml
+C:\Data Disk\Chimingkuei\repos\Reference\C#\Template\Template\obj\x64\Debug\UI\ComboBoxStyles.baml
+C:\Data Disk\Chimingkuei\repos\Reference\C#\Template\Template\obj\x64\Debug\UI\TextBoxStyles.baml
+E:\Template\Template\obj\x64\Debug\Template.csproj.AssemblyReference.cache
+E:\Template\Template\obj\x64\Debug\Language\en-US.baml
+E:\Template\Template\obj\x64\Debug\Language\zh-TW.baml
+E:\Template\Template\obj\x64\Debug\UI\CheckBoxStyles.baml
+E:\Template\Template\obj\x64\Debug\UI\ComboBoxStyles.baml
+E:\Template\Template\obj\x64\Debug\UI\TextBoxStyles.baml
+E:\Template\Template\obj\x64\Debug\MainWindow.g.cs
+E:\Template\Template\obj\x64\Debug\App.g.cs
+E:\Template\Template\obj\x64\Debug\Template_MarkupCompile.cache
+E:\Template\Template\obj\x64\Debug\Template_MarkupCompile.lref
+E:\Template\Template\obj\x64\Debug\Template.exe
+E:\Template\Template\obj\x64\Debug\Template.pdb
+E:\Template\Template\bin\x64\Debug\Template.exe.config
+E:\Template\Template\bin\x64\Debug\Template.exe
+E:\Template\Template\bin\x64\Debug\Template.pdb
+E:\Template\Template\bin\x64\Debug\HandyControl.dll
+E:\Template\Template\bin\x64\Debug\Newtonsoft.Json.dll
+E:\Template\Template\bin\x64\Debug\HandyControl.xml
+E:\Template\Template\bin\x64\Debug\Newtonsoft.Json.xml
+E:\Template\Template\obj\x64\Debug\App.baml
+E:\Template\Template\obj\x64\Debug\MainWindow.baml
+E:\Template\Template\obj\x64\Debug\Template.g.resources
+E:\Template\Template\obj\x64\Debug\Template.Properties.Resources.resources
+E:\Template\Template\obj\x64\Debug\Template.csproj.GenerateResource.cache
+E:\Template\Template\obj\x64\Debug\Template.csproj.CoreCompileInputs.cache
+E:\Template\Template\obj\x64\Debug\Template.csproj.CopyComplete

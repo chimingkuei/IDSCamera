@@ -1,0 +1,90 @@
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\IDSCamera.exe.config
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\IDSCamera.exe
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\IDSCamera.pdb
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\HandyControl.dll
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\HandyControl.xml
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\IDSCamera.csproj.AssemblyReference.cache
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\UI\CheckBoxStyles.baml
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\UI\ComboBoxStyles.baml
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\UI\TextBoxStyles.baml
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\MainWindow.g.cs
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\App.g.cs
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\IDSCamera_MarkupCompile.cache
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\IDSCamera_MarkupCompile.lref
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\App.baml
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\MainWindow.baml
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\IDSCamera.g.resources
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\IDSCamera.Properties.Resources.resources
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\IDSCamera.csproj.GenerateResource.cache
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\IDSCamera.csproj.CoreCompileInputs.cache
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\IDSCamera.csproj.CopyComplete
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\IDSCamera.exe
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\IDSCamera.pdb
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\uEyeDotNet.dll
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\OpenCvSharp.dll
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\System.Buffers.dll
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\System.Drawing.Common.dll
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\System.Memory.dll
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\System.ValueTuple.dll
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\OpenCvSharp.xml
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\OpenCvSharp.Extensions.xml
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\System.Buffers.xml
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\System.Memory.xml
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\System.ValueTuple.xml
+C:\Data Disk\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\IDSCamera_Content.g.cs
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\IDSCamera.exe.config
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\IDSCamera.exe
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\IDSCamera.pdb
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\HandyControl.dll
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\OpenCvSharp.dll
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\OpenCvSharp.Extensions.dll
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\System.Buffers.dll
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\System.Drawing.Common.dll
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\System.Memory.dll
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\System.ValueTuple.dll
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\uEyeDotNet.dll
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\HandyControl.xml
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\OpenCvSharp.xml
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\OpenCvSharp.Extensions.xml
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\System.Buffers.xml
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\System.Memory.xml
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\bin\x64\Debug\System.ValueTuple.xml
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\IDSCamera.csproj.AssemblyReference.cache
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\UI\CheckBoxStyles.baml
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\UI\ComboBoxStyles.baml
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\UI\TextBoxStyles.baml
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\MainWindow.g.cs
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\App.g.cs
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\IDSCamera_Content.g.cs
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\IDSCamera_MarkupCompile.cache
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\IDSCamera_MarkupCompile.lref
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\App.baml
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\MainWindow.baml
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\IDSCamera.g.resources
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\IDSCamera.Properties.Resources.resources
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\IDSCamera.csproj.GenerateResource.cache
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\IDSCamera.csproj.CoreCompileInputs.cache
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\IDSCamera.csproj.Up2Date
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\IDSCamera.exe
+D:\Chimingkuei\repos\IDSCamera\IDSCamera\obj\x64\Debug\IDSCamera.pdb

@@ -1,0 +1,9 @@
+2024年6月26日 上午 12:16:48 - Continuous Acquisition!
+2024年6月26日 上午 12:17:25 - Freeze Image!
+2024年6月26日 上午 12:17:27 - Unfreeze Image!
+2024年6月26日 上午 12:17:43 - Load Parameter!
+2024年6月26日 上午 12:17:52 - Load Parameter!
+2024年6月26日 上午 12:18:06 - Continuous Acquisition!
+2024年6月26日 上午 12:18:16 - Save Image 202406260018167770.bmp
+2024年6月26日 上午 12:18:31 - Save Image 202406260018313517.bmp
+2024年6月26日 下午 08:06:16 - Continuous Acquisition!
